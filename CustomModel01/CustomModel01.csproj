@@ -213,7 +213,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
-    <Compile Include="Filters\BooleanRequiredAttribute.cs" />
+    <Compile Include="Filters\BoolRequiredAttribute.cs" />
     <Compile Include="Filters\ContainWordAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
